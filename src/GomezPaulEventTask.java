@@ -1,7 +1,4 @@
 // GomezPaulEventTask.java
-import java.util.ArrayList;
-import java.util.List;
-import java.time.LocalDate;
 
 /**
  * Clase que representa una tarea asociada a un evento
